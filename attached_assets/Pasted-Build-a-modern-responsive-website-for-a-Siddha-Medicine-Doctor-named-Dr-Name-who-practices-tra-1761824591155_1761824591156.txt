@@ -1,0 +1,80 @@
+Build a modern, responsive website for a Siddha Medicine Doctor named “Dr. [Name]” who practices traditional Tamil Siddha medicine.
+
+The website should have a natural and healing design theme — use green, beige, and earthy tones to symbolize nature and wellness. Include soft textures inspired by herbs and leaves.
+
+🏠 Pages & Sections:
+
+1. Home Page:
+
+Hero section with doctor’s photo, title (“Siddha Medicine Practitioner”), and a short healing quote.
+
+Brief intro about Siddha medicine philosophy.
+
+“Book Appointment” button leading to a contact/appointment form.
+
+Testimonials carousel.
+
+List of treatments offered with icons (e.g., detox therapy, herbal medicine, varmam therapy).
+
+2. About Page:
+
+Profile of Dr. [Name], qualifications, years of experience.
+
+Journey and inspiration behind choosing Siddha medicine.
+
+Certifications, recognitions, and clinic photos.
+
+3. Treatments / Services Page:
+
+Grid layout with each treatment card showing name, image, short description.
+
+Example services: Siddha Consultation, Herbal Medicine, Varma Therapy, Detox Programs, Skin & Joint Care, Wellness Counseling.
+
+4. Herbs & Remedies Page (Optional):
+
+Showcase key herbs and their healing benefits.
+
+Include educational snippets about Siddha lifestyle tips.
+
+5. Appointment Page:
+
+Form with fields for name, phone, email, preferred date/time, and concern.
+
+Include WhatsApp chat button for instant booking.
+
+6. Blog / Articles Page:
+
+Articles on Siddha principles, home remedies, seasonal health tips.
+
+7. Contact Page:
+
+Clinic address with Google Map integration.
+
+Contact number, email, consultation hours.
+
+WhatsApp and call buttons.
+
+8. Footer:
+
+Quick links, social media icons, copyright, and clinic location.
+
+✨ Style & Feel:
+
+Use soft green gradients and herbal background patterns.
+
+Font: Elegant and readable (e.g., Poppins or Lora).
+
+Include leaf icons and subtle herbal imagery.
+
+Smooth animations for section transitions.
+
+🩺 Bonus:
+
+Add a floating “Book Appointment” button.
+
+Optional testimonial slider and patient success stories.
+
+SEO optimized for “Siddha Doctor in [Location]”.
+
+Website Name: Dr. [Name] Siddha Clinic
+Tagline: Healing through Ancient Tamil Wisdom
