@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12">
           {/* About */}
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold text-foreground">Dr. [Name] Siddha Clinic</h3>
+            <h3 className="text-lg font-semibold text-foreground">Dr Maneksha Hospital</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Healing through Ancient Tamil Wisdom. Experience authentic Siddha medicine for holistic wellness.
             </p>
@@ -95,7 +95,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>© 2025 Dr. [Name] Siddha Clinic. All rights reserved.</p>
+          <p>© 2025 Dr Maneksha Hospital. All rights reserved.</p>
         </div>
       </div>
     </footer>

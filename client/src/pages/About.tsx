@@ -30,7 +30,7 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4">
-              About Dr. [Name]
+              About Dr Maneksha Hospital
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
               Dedicated to preserving and practicing the ancient art of Siddha medicine
@@ -60,7 +60,7 @@ export default function About() {
             <div className="relative">
               <img
                 src={doctorImage}
-                alt="Dr. [Name]"
+                alt="Dr Maneksha Hospital"
                 className="rounded-lg shadow-lg w-full"
                 data-testid="img-about-doctor"
               />

@@ -61,7 +61,7 @@ export default function Hero() {
             <div className="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
               <img
                 src={doctorImage}
-                alt="Dr. [Name] - Siddha Medicine Practitioner"
+                alt="Dr Maneksha Hospital - Siddha Medicine Practitioner"
                 className="w-full h-full object-cover"
                 data-testid="img-doctor"
               />

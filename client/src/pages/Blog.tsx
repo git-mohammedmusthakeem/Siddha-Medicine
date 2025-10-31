@@ -14,7 +14,7 @@ export default function Blog() {
       title: '5 Essential Herbs for Daily Wellness',
       excerpt: 'Discover the power of Tulsi, Turmeric, Neem, Ashwagandha, and Amla in your daily routine for improved health and vitality.',
       category: 'Remedies',
-      author: 'Dr. [Name]',
+      author: 'Dr Maneksha Hospital',
       readTime: '5 min read',
       image: herbsImage,
       featured: true
@@ -23,7 +23,7 @@ export default function Blog() {
       title: 'Understanding Siddha Medicine Principles',
       excerpt: 'Learn about the fundamental concepts of Siddha medicine, including the three doshas and the importance of balance.',
       category: 'Wellness',
-      author: 'Dr. [Name]',
+      author: 'Dr Maneksha Hospital',
       readTime: '8 min read',
       image: herbalImage
     },
@@ -31,7 +31,7 @@ export default function Blog() {
       title: 'Seasonal Detox: Spring Cleansing Guide',
       excerpt: 'A comprehensive guide to natural detoxification techniques perfect for the spring season to rejuvenate your body.',
       category: 'Seasonal Tips',
-      author: 'Dr. [Name]',
+      author: 'Dr Maneksha Hospital',
       readTime: '6 min read',
       image: detoxImage
     },
@@ -39,7 +39,7 @@ export default function Blog() {
       title: 'Varma Points for Pain Relief',
       excerpt: 'Explore specific Varma pressure points you can use at home for common aches and pains.',
       category: 'Wellness',
-      author: 'Dr. [Name]',
+      author: 'Dr Maneksha Hospital',
       readTime: '7 min read',
       image: herbalImage
     },
@@ -47,7 +47,7 @@ export default function Blog() {
       title: 'Natural Remedies for Better Sleep',
       excerpt: 'Traditional Siddha approaches to improving sleep quality through herbs and lifestyle practices.',
       category: 'Remedies',
-      author: 'Dr. [Name]',
+      author: 'Dr Maneksha Hospital',
       readTime: '5 min read',
       image: herbsImage
     },
@@ -55,7 +55,7 @@ export default function Blog() {
       title: 'Monsoon Health Tips from Siddha',
       excerpt: 'Stay healthy during the rainy season with these time-tested Siddha medicine practices and precautions.',
       category: 'Seasonal Tips',
-      author: 'Dr. [Name]',
+      author: 'Dr Maneksha Hospital',
       readTime: '6 min read',
       image: detoxImage
     }

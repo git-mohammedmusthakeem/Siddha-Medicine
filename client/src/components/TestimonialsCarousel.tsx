@@ -12,7 +12,7 @@ export default function TestimonialsCarousel() {
     {
       name: 'Priya Sharma',
       condition: 'Chronic Joint Pain',
-      text: 'After years of suffering from arthritis, Dr. [Name]\'s Siddha treatment has given me my life back. The herbal medicine and varma therapy worked wonders!',
+      text: 'After years of suffering from arthritis, Dr Maneksha Hospital\'s Siddha treatment has given me my life back. The herbal medicine and varma therapy worked wonders!',
       image: patientImage
     },
     {
@@ -24,7 +24,7 @@ export default function TestimonialsCarousel() {
     {
       name: 'Lakshmi Devi',
       condition: 'Skin Condition',
-      text: 'The natural herbal treatments cleared my skin condition that I had for over 5 years. Dr. [Name]\'s holistic approach is remarkable and effective.',
+      text: 'The natural herbal treatments cleared my skin condition that I had for over 5 years. Dr Maneksha Hospital\'s holistic approach is remarkable and effective.',
       image: patientImage
     }
   ];

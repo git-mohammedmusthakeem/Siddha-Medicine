@@ -40,8 +40,8 @@ export default function Navigation() {
                 <span className="text-primary-foreground font-bold text-sm md:text-base">Dr</span>
               </div>
               <div className="hidden sm:block">
-                <div className="font-bold text-base md:text-lg text-foreground">Dr. [Name]</div>
-                <div className="text-xs text-muted-foreground">Siddha Clinic</div>
+                <div className="font-bold text-base md:text-lg text-foreground">Dr Maneksha Hospital</div>
+                <div className="text-xs text-muted-foreground">Siddha Medicine</div>
               </div>
             </a>
           </Link>
