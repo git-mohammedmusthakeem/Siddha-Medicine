@@ -1,7 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Link } from 'wouter';
 import { Sparkles } from 'lucide-react';
-import doctorImage from '@assets/generated_images/Siddha_doctor_professional_portrait_4d0ffa40.png';
 
 export default function Hero() {
   return (
@@ -10,7 +9,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-accent/5" />
       
       <div className="relative max-w-7xl mx-auto px-4 md:px-6 lg:px-8 py-16 md:py-20">
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+        <div className="max-w-4xl mx-auto text-center">
           {/* Content */}
           <div className="space-y-6 md:space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20">
@@ -18,15 +17,15 @@ export default function Hero() {
               <span className="text-sm font-medium text-primary">Traditional Siddha Medicine</span>
             </div>
             
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold text-foreground leading-tight">
               Healing through Ancient Tamil Wisdom
             </h1>
             
-            <p className="text-lg md:text-xl text-muted-foreground font-serif italic leading-relaxed">
+            <p className="text-lg md:text-xl text-muted-foreground font-serif italic leading-relaxed max-w-3xl mx-auto">
               "Nature itself is the best physician. Siddha medicine harmonizes body, mind, and spirit through the healing power of herbs and ancient knowledge."
             </p>
             
-            <div className="flex flex-wrap gap-4 pt-4">
+            <div className="flex flex-wrap gap-4 pt-4 justify-center">
               <Link href="/appointment">
                 <Button size="lg" variant="default" data-testid="button-hero-book">
                   Book Appointment
@@ -40,7 +39,7 @@ export default function Hero() {
             </div>
 
             {/* Trust Indicators */}
-            <div className="grid grid-cols-3 gap-6 pt-8 border-t border-border">
+            <div className="grid grid-cols-3 gap-6 pt-8 max-w-2xl mx-auto">
               <div>
                 <div className="text-2xl md:text-3xl font-bold text-primary">15+</div>
                 <div className="text-sm text-muted-foreground">Years Experience</div>
@@ -54,21 +53,6 @@ export default function Hero() {
                 <div className="text-sm text-muted-foreground">Success Rate</div>
               </div>
             </div>
-          </div>
-
-          {/* Doctor Image */}
-          <div className="relative">
-            <div className="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
-              <img
-                src={doctorImage}
-                alt="Dr Maneksha Hospital - Siddha Medicine Practitioner"
-                className="w-full h-full object-cover"
-                data-testid="img-doctor"
-              />
-            </div>
-            {/* Decorative Elements */}
-            <div className="absolute -top-4 -right-4 w-24 h-24 bg-primary/20 rounded-full blur-3xl" />
-            <div className="absolute -bottom-4 -left-4 w-32 h-32 bg-accent/20 rounded-full blur-3xl" />
           </div>
         </div>
       </div>
