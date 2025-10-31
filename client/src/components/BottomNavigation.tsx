@@ -1,15 +1,15 @@
 import { Link, useLocation } from 'wouter';
-import { Home, Info, Stethoscope, Calendar, FileText } from 'lucide-react';
+import { Home, Stethoscope, Calendar, MessageCircle, Info } from 'lucide-react';
 
 export default function BottomNavigation() {
   const [location] = useLocation();
 
   const navItems = [
     { path: '/', icon: Home, label: 'Home' },
-    { path: '/about', icon: Info, label: 'About' },
     { path: '/treatments', icon: Stethoscope, label: 'Treatments' },
     { path: '/appointment', icon: Calendar, label: 'Book' },
-    { path: '/blog', icon: FileText, label: 'Blog' },
+    { path: '/about', icon: Info, label: 'About' },
+    { path: '/contact', icon: MessageCircle, label: 'Contact' },
   ];
 
   return (
